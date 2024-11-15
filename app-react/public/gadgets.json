@@ -1,0 +1,390 @@
+[
+  {
+    "id": 1,
+    "title": "Dell XPS 13",
+    "image": "https://i.ibb.co.com/8B45FMM/1.jpg",
+    "category": "laptop",
+    "price": 999.99,
+    "description": "The Dell XPS 13 features a sleek design, powerful performance, and stunning display. Ideal for professionals and students.",
+    "specification": [
+      "13.3-inch Full HD display",
+      "Intel Core i7-1185G7",
+      "16GB RAM",
+      "512GB SSD",
+      "Intel Iris Xe Graphics",
+      "Windows 11 Pro"
+    ],
+    "availability": true,
+    "rating": 4.3
+  },
+  
+  {
+    "id": 14,
+    "title": "Xiaomi 13 Pro",
+    "image": "https://i.ibb.co.com/8N6Hd6Y/14.jpg",
+    "category": "phone",
+    "price": 899.99,
+    "description": "Xiaomi 13 Pro delivers flagship-level performance, with a Leica-powered camera system and an impressive AMOLED display.",
+    "specification": [
+      "6.73-inch AMOLED display",
+      "Qualcomm Snapdragon 8 Gen 2",
+      "12GB RAM",
+      "256GB storage",
+      "50MP Leica triple camera system",
+      "MIUI 14 based on Android 13"
+    ],
+    "availability": true,
+    "rating": 2.7
+  },
+
+  {
+    "id": 2,
+    "title": "MacBook Air M2",
+    "image": "https://i.ibb.co.com/fFSLkV1/2.jpg",
+    "category": "laptop",
+    "price": 1199.99,
+    "description": "The Apple MacBook Air with M2 chip offers excellent performance, long battery life, and a premium design.",
+    "specification": [
+      "13.6-inch Retina display",
+      "Apple M2 chip",
+      "8GB RAM",
+      "256GB SSD",
+      "MacOS Monterey",
+      "Touch ID"
+    ],
+    "availability": true,
+    "rating": 3.9
+  },
+
+  {
+    "id": 3,
+    "title": "HP Spectre x360",
+    "image": "https://i.ibb.co.com/J7sSgYj/3.jpg",
+    "category": "laptop",
+    "price": 1499.99,
+    "description": "The HP Spectre x360 is a premium 2-in-1 laptop with excellent performance, a high-resolution display, and versatile features.",
+    "specification": [
+      "13.5-inch OLED display",
+      "Intel Core i7-1165G7",
+      "16GB RAM",
+      "512GB SSD",
+      "Intel Iris Xe Graphics",
+      "Windows 11"
+    ],
+    "availability": true,
+    "rating": 1.7
+  },
+
+  {
+    "id": 4,
+    "title": "Lenovo ThinkPad X1",
+    "image": "https://i.ibb.co.com/vhNYpQs/4.jpg",
+    "category": "laptop",
+    "price": 1699.99,
+    "description": "The Lenovo ThinkPad X1 Carbon is designed for business professionals, offering top-notch security, durability, and performance.",
+    "specification": [
+      "14-inch Full HD display",
+      "Intel Core i7-1185G7",
+      "16GB RAM",
+      "512GB SSD",
+      "Intel Iris Xe Graphics",
+      "Windows 10 Pro"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  
+  
+  {
+    "id": 13,
+    "title": "OnePlus 11 5G",
+    "image": "https://i.ibb.co.com/vQyvpfd/13.jpg",
+    "category": "phone",
+    "price": 799.99,
+    "description": "OnePlus 11 5G is a high-performance phone featuring a Snapdragon 8 Gen 2 processor and a stunning AMOLED display, perfect for users looking for power and speed.",
+    "specification": [
+      "6.7-inch Fluid AMOLED display",
+      "Snapdragon 8 Gen 2",
+      "16GB RAM",
+      "256GB storage",
+      "50MP triple camera system",
+      "OxygenOS based on Android 13"
+    ],
+    "availability": true,
+    "rating": 2.6
+  },
+
+  {
+    "id": 5,
+    "title": "ROG Zephyrus G14",
+    "image": "https://i.ibb.co.com/wrBpQCc/5.jpg",
+    "category": "laptop",
+    "price": 1799.99,
+    "description": "The ASUS ROG Zephyrus G14 is a powerful gaming laptop with an AMD Ryzen 9 processor and NVIDIA GeForce RTX 3060 graphics.",
+    "specification": [
+      "14-inch Full HD display, 120Hz",
+      "AMD Ryzen 9 5900HS",
+      "16GB RAM",
+      "1TB SSD",
+      "NVIDIA GeForce RTX 3060",
+      "Windows 11 Home"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  
+  {
+    "id": 20,
+    "title": "OnePlus Active",
+    "image": "https://i.ibb.co.com/gPJSwFJ/20.jpg",
+    "category": "earbuds",
+    "price": 129.99,
+    "description": "OnePlus Active are designed for fitness enthusiasts. With sweat-proof technology and a secure fit, they are perfect for intense workouts and outdoor activities.",
+    "specification": [
+      "Bluetooth 5.1",
+      "Up to 10 hours of battery life",
+      "Sweat and water-resistant (IPX6)",
+      "Secure fit ear hooks",
+      "Active noise cancellation"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+
+  {
+    "id": 6,
+    "title": "Microsoft Surface 4",
+    "image": "https://i.ibb.co.com/Jdvz1m6/6.jpg",
+    "category": "laptop",
+    "price": 1299.99,
+    "description": "The Microsoft Surface Laptop 4 combines style, performance, and productivity for both personal and professional use.",
+    "specification": [
+      "13.5-inch PixelSense display",
+      "Intel Core i7-1165G7",
+      "16GB RAM",
+      "512GB SSD",
+      "Intel Iris Xe Graphics",
+      "Windows 10 Home"
+    ],
+    "availability": true,
+    "rating": 3.8
+  },
+
+  {
+    "id": 7,
+    "title": "Predator Helios 300",
+    "image": "https://i.ibb.co.com/Yknvqmn/7.jpg",
+    "category": "laptop",
+    "price": 1599.99,
+    "description": "Acer's Predator Helios 300 delivers a powerful gaming experience with an Intel i7 processor and NVIDIA GeForce RTX 3060.",
+    "specification": [
+      "15.6-inch Full HD display, 144Hz",
+      "Intel Core i7-11800H",
+      "16GB RAM",
+      "512GB SSD",
+      "NVIDIA GeForce RTX 3060",
+      "Windows 11"
+    ],
+    "availability": true,
+    "rating": 3.7
+  },
+
+  {
+    "id": 8,
+    "title": "Razer Blade 15",
+    "image": "https://i.ibb.co.com/mznqrGz/8.jpg",
+    "category": "laptop",
+    "price": 2299.99,
+    "description": "The Razer Blade 15 combines performance, portability, and style for an ultimate gaming experience.",
+    "specification": [
+      "15.6-inch 4K OLED display",
+      "Intel Core i7-11800H",
+      "16GB RAM",
+      "1TB SSD",
+      "NVIDIA GeForce RTX 3080",
+      "Windows 10"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+
+  {
+    "id": 9,
+    "title": "MSI Prestige 14",
+    "image": "https://i.ibb.co.com/37xNMbw/9.jpg",
+    "category": "laptop",
+    "price": 1299.99,
+    "description": "MSI Prestige 14 offers excellent performance in a slim, elegant design suitable for professionals.",
+    "specification": [
+      "14-inch Full HD display",
+      "Intel Core i7-1185G7",
+      "16GB RAM",
+      "512GB SSD",
+      "Intel Iris Xe Graphics",
+      "Windows 11 Pro"
+    ],
+    "availability": true,
+    "rating": 2.6
+  },
+  {
+    "id": 10,
+    "title": "IPhone 15 Pro",
+    "image": "https://i.ibb.co.com/ckqb6Kk/10.jpg",
+    "category": "phone",
+    "price": 1099.99,
+    "description": "The Apple iPhone 15 Pro combines cutting-edge technology with an elegant design. Equipped with the A17 Pro chip and advanced camera features.",
+    "specification": [
+      "6.1-inch Super Retina XDR OLED display",
+      "A17 Pro chip",
+      "128GB storage",
+      "48MP main camera",
+      "ProMotion 120Hz",
+      "iOS 17"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "id": 11,
+    "title": "Samsung S23 Ultra",
+    "image": "https://i.ibb.co.com/fF56bFL/11.jpg",
+    "category": "phone",
+    "price": 1399.99,
+    "description": "The Samsung Galaxy S23 Ultra offers unparalleled performance with a 200MP camera and a massive battery. Ideal for gaming and photography enthusiasts.",
+    "specification": [
+      "6.8-inch Dynamic AMOLED 2X display",
+      "Qualcomm Snapdragon 8 Gen 2",
+      "12GB RAM",
+      "256GB storage",
+      "200MP quad-camera system",
+      "Android 13"
+    ],
+    "availability": true,
+    "rating": 3.8
+  },
+  {
+    "id": 12,
+    "title": "Pixel 8 Pro",
+    "image": "https://i.ibb.co.com/dGQDfb6/12.jpg",
+    "category": "phone",
+    "price": 999.99,
+    "description": "The Google Pixel 8 Pro offers excellent AI-powered features, including an upgraded camera system and long-lasting battery life.",
+    "specification": [
+      "6.7-inch LTPO OLED display",
+      "Google Tensor G3 chip",
+      "12GB RAM",
+      "128GB storage",
+      "50MP triple camera system",
+      "Android 14"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "id": 15,
+    "title": "Samsung Z Fold 5",
+    "image": "https://i.ibb.co.com/8djcXWV/15.jpg",
+    "category": "phone",
+    "price": 1799.99,
+    "description": "The Samsung Galaxy Z Fold 5 offers a foldable design with top-tier specs, a 7.6-inch AMOLED screen, and multitasking capabilities.",
+    "specification": [
+      "7.6-inch Foldable Dynamic AMOLED display",
+      "Qualcomm Snapdragon 8 Gen 2",
+      "12GB RAM",
+      "512GB storage",
+      "50MP triple camera system",
+      "Android 13 with One UI"
+    ],
+    "availability": true,
+    "rating": 1.8
+  },
+
+  {
+    "id": 16,
+    "title": "Apple Watch 8",
+    "image": "https://i.ibb.co.com/N3Z1F8V/16.jpg",
+    "category": "watch",
+    "price": 399.99,
+    "description": "The Apple Watch Series 8 offers advanced health monitoring, a sleek design, and enhanced performance, making it perfect for both fitness and daily use.",
+    "specification": [
+      "1.9-inch Always-On Retina display",
+      "S8 SiP with 64-bit dual-core processor",
+      "Blood oxygen sensor",
+      "ECG app",
+      "50 meters water resistance",
+      "watchOS 9"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "id": 17,
+    "title": "Samsung Watch 6",
+    "image": "https://i.ibb.co.com/7WxZQ8T/17.jpg",
+    "category": "watch",
+    "price": 329.99,
+    "description": "The Samsung Galaxy Watch 6 provides a high-quality AMOLED display, advanced fitness tracking, and a long-lasting battery in a stylish design.",
+    "specification": [
+      "1.5-inch Super AMOLED display",
+      "Exynos W920 dual-core processor",
+      "Heart rate monitor",
+      "GPS tracking",
+      "IP68 water resistance",
+      "Wear OS Powered by Samsung"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "id": 18,
+    "title": "Wiwe 2 Plus",
+    "image": "https://i.ibb.co.com/bQp2bfB/18.jpg",
+    "category": "watch",
+    "price": 499.99,
+    "description": "The Bose 2 Plus is an advanced fitness smartwatch that combines health tracking, GPS navigation, and smart features with a beautiful AMOLED display.",
+    "specification": [
+      "1.3-inch AMOLED display",
+      "Elevate™ 4.0 heart rate sensor",
+      "Built-in GPS",
+      "Pulse Ox sensor",
+      "Battery life up to 9 days",
+      "Garmin Coach & Fitness Tracking"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "id": 19,
+    "title": "Joyroom Pro Earbuds",
+    "image": "https://i.ibb.co.com/xfPzN5q/19.jpg",
+    "category": "earbuds",
+    "price": 99.99,
+    "description": "Experience premium sound quality with SoundMax Pro Earbuds. Featuring noise-canceling technology and a comfortable fit for long hours of use.",
+    "specification": [
+      "Bluetooth 5.0",
+      "Up to 8 hours of battery life",
+      "IPX7 water-resistant",
+      "Touch controls",
+      "Built-in microphone"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "id": 21,
+    "title": "JBL Studio Earbuds",
+    "image": "https://i.ibb.co.com/ctSRRK5/21.jpg",
+    "category": "earbuds",
+    "price": 159.99,
+    "description": "JBL Studio Earbuds offer exceptional sound quality with advanced noise-canceling technology. Perfect for commuters and travelers who need a quiet listening experience.",
+    "specification": [
+      "Bluetooth 5.0",
+      "Up to 12 hours of battery life",
+      "Active noise cancellation",
+      "USB-C charging",
+      "High-fidelity audio"
+    ],
+    "availability": true,
+    "rating": 4.8
+  }
+]
