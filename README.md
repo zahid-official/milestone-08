@@ -23,15 +23,15 @@ Gadgetix is a modern and responsive gadget marketplace experience where users ca
 
 | Feature                     | Description                                                                                                         |
 | :-------------------------- | :------------------------------------------------------------------------------------------------------------------ |
-| 🗂️ **Category Browsing**    | Filter gadgets by category (laptops, phones, watches, earbuds) via a sidebar-driven, route-based navigation system. |
-| 📄 **Product Details**      | Dedicated detail pages showing price, description, specifications, availability, and user rating.                   |
-| 🛒 **Cart & Wishlist**      | Add items to cart or wishlist, review them on a dedicated dashboard, and sort cart entries by price.                |
-| 💳 **Purchase Flow**        | Complete purchases through a confirmation modal with real-time cost calculation.                                    |
-| 📊 **Statistics Dashboard** | Visualize product data with interactive charts powered by **Recharts**.                                             |
-| 📰 **Articles Page**        | Browse tech-related articles for additional content engagement.                                                     |
-| 🔔 **Toast Notifications**  | Instant UI feedback on user actions — adds, removes, and purchase confirmations.                                    |
-| 📱 **Fully Responsive**     | Optimized layouts for mobile, tablet, and desktop devices.                                                          |
-| 🏷️ **Dynamic Page Titles**  | SEO-friendly page titles managed with **React Helmet Async**.                                                       |
+| **Category Browsing**    | Filter gadgets by category (laptops, phones, watches, earbuds) via a sidebar-driven, route-based navigation system. |
+| **Product Details**      | Dedicated detail pages showing price, description, specifications, availability, and user rating.                   |
+| **Cart & Wishlist**      | Add items to cart or wishlist, review them on a dedicated dashboard, and sort cart entries by price.                |
+| **Purchase Flow**        | Complete purchases through a confirmation modal with real-time cost calculation.                                    |
+| **Statistics Dashboard** | Visualize product data with interactive charts powered by **Recharts**.                                             |
+| **Articles Page**        | Browse tech-related articles for additional content engagement.                                                     |
+| **Toast Notifications**  | Instant UI feedback on user actions — adds, removes, and purchase confirmations.                                    |
+| **Fully Responsive**     | Optimized layouts for mobile, tablet, and desktop devices.                                                          |
+| **Dynamic Page Titles**  | SEO-friendly page titles managed with **React Helmet Async**.                                                       |
 
 ---
 
