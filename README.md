@@ -35,6 +35,27 @@ Gadgetix is a modern and responsive gadget marketplace experience where users ca
 
 ---
 
+## 🧩 Core Concepts
+
+### State Management
+The app uses **React Context API** to manage global state across components. Five dedicated contexts handle:
+
+| Context            | Purpose                             |
+| :----------------- | :---------------------------------- |
+| `TotalContext`     | Tracks the total cart cost           |
+| `CartContext`      | Manages the cart item count          |
+| `WishContext`      | Manages the wishlist item count      |
+| `AddtoCartContext` | Stores the full cart items array     |
+| `AddtoWishContext` | Stores the full wishlist items array |
+
+### Data Persistence
+Cart and wishlist data are saved to **localStorage**, so users don't lose their selections on page refresh. Utility functions in `localStorage.js` handle read/write operations.
+
+### Data Loading Strategy
+Product data is stored as a static JSON file (`public/gadgets.json`) and fetched at runtime using React Router's **loader** functions — keeping the app lightweight while enabling dynamic content rendering.
+
+---
+
 ## ⚙️ How It Works
 
 ```
@@ -111,6 +132,20 @@ milestone-08/
 
 ---
 
+## 🗺️ Pages & Routes
+
+| Route               | Page             | Description                                  |
+| :------------------ | :--------------- | :------------------------------------------- |
+| `/`                 | Home             | Landing page with featured products grid     |
+| `/gadgets/:category`| Home (filtered)  | Products filtered by selected category       |
+| `/details/:id`      | Product Details  | Full specifications for a single product     |
+| `/dashboard`        | Dashboard        | Cart and wishlist management interface       |
+| `/statistics`       | Statistics       | Interactive charts & data visualization      |
+| `/article`          | Articles         | Tech-related articles and blog content       |
+| `*`                 | Error Page       | Custom 404 page for unmatched routes         |
+
+---
+
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -151,6 +186,22 @@ npm run dev
 
 ---
 
+## 🌐 Deployment
+
+This project is deployed on **[Surge](https://surge.sh/)** for fast static hosting.
+
+```bash
+# Build the production bundle
+npm run build
+
+# Deploy to Surge (requires surge CLI)
+npx surge ./dist gadgetix-world23.surge.sh
+```
+
+> The custom domain is configured via the `CNAME` file in the `public/` directory.
+
+---
+
 ## 👤 Author
 
 <div align="center">
@@ -182,5 +233,13 @@ Contributions make the project better for everyone. If you would like to improve
 4. Push to the branch (git push origin feature/AmazingFeature)
 5. Open a Pull Request
 ```
+
+---
+
+## 📄 License
+
+This project is open source and available for learning and personal use.
+
+---
 
 <p align="center"><b>Gadgetix</b><i> - Where smart shopping meets a sleek digital experience.</i></p>
