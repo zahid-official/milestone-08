@@ -5,7 +5,7 @@
 Gadgetix is a modern and responsive gadget marketplace experience where users can explore featured products, browse by category, view detailed specifications, and manage items through a cart and wishlist dashboard. With routed pages, dynamic product details, and a clean shopping-focused interface, it delivers a smooth and engaging tech browsing journey.
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_Site-9b59b6?style=for-the-badge)](https://gadgetix-world23.surge.sh/)
-[![GitHub Repo](https://img.shields.io/badge/📂_Repository-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/zahid-official/milestone-08)
+[![GitHub Repo](https://img.shields.io/badge/📂_Repository-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/zahid-official/milestone-08-gadgetix)
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -159,10 +159,10 @@ milestone-08/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/zahid-official/milestone-08.git
+git clone https://github.com/zahid-official/milestone-08-gadgetix.git
 
 # 2. Navigate to the project directory
-cd milestone-08
+cd milestone-08-gadgetix
 
 # 3. Install dependencies
 npm install
